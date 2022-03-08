@@ -4,5 +4,5 @@ pkgdown_sha: ~
 articles:
   gc01_MODIS: gc01_MODIS.html
   gc02_AWS_Sentinel2: gc02_AWS_Sentinel2.html
-last_built: 2022-03-08T11:05Z
+last_built: 2022-03-08T13:13Z
 
