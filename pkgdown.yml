@@ -1,7 +1,8 @@
-pandoc: 2.9.2.1
-pkgdown: 1.6.1
+pandoc: 2.14.0.3
+pkgdown: 2.0.2
 pkgdown_sha: ~
 articles:
-  MODIS: MODIS.html
-last_built: 2021-07-15T11:47Z
+  gc01_MODIS: gc01_MODIS.html
+  gc02_AWS_Sentinel2: gc02_AWS_Sentinel2.html
+last_built: 2022-03-08T11:05Z
 
